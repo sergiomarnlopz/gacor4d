@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gacor4d.arxman.com/sitemap.xml
